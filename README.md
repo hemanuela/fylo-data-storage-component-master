@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com)
-- Live Site URL: [🚀](https://your-live-site-url.com)
+- Solution URL: [Here](https://github.com/hemanuela/fylo-data-storage-component-master)
+- Live Site URL: [🚀](https://hemanuela.github.io/fylo-data-storage-component-master/)
 
 ## My process
 
