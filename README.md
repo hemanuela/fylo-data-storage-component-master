@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/hemanuela/fylo-data-storage-component-master/blob/main/design/my-screenshot.jpg)
 
 
 
