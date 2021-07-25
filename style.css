@@ -223,13 +223,11 @@ button:hover {
 
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1366px) {
     body {
         background-image: url('images/bg-desktop.png');
         background-position:bottom;
         background-size: 100%;
-
-
     }
 
 }
